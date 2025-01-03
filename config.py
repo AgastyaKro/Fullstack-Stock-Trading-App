@@ -1,9 +1,8 @@
-API_KEY = 'PK73ECN294V2OGAYSABA'
-SECRET_KEY = 'jVzuMDIkqVi8yYfD9ImmxRpdUBsB49o5w18dQdEL'
+API_KEY = 'your_api_key_here'
+SECRET_KEY = 'your_secret_key_here'
 API_URL = 'https://paper-api.alpaca.markets'
 
-DB_FILE = '/Users/agastyakrothapalli/Documents/Coding/fullstack-trading/app.db'
-
+DB_FILE = 'path_to_your_database_file_here'
 
 
 
