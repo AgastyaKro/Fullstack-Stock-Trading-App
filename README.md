@@ -1,4 +1,3 @@
-# Fullstack-Stock-Trading-App
 
 # Fullstack Stock Trading App
 
